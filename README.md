@@ -1,16 +1,13 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+Hi! I just started learning Flutter and this is my first personal project. It is simple BMI calculator with not so great design😋.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Screen Shots
 
-A few resources to get you started if this is your first Flutter project:
+## Home page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![enter image description here](https://lh3.googleusercontent.com/7G6VAuxovwPQURCZ0IJTkl1iumO1PxsaomoR7oF4fuW3gc8o3rjFhFDrfNzMKV79TGMiaoormpvsimWZUF98fl9E1tTjbnsUcjFvNKaBUmaCxEuK7jewSFXGyAbj7J_eWQxybDhhvKBtqP5lY583RH2TP3uGJkTzeLxpLP_c429M1iTnuT6eyy4xjDPisnaSxdce6nFVrGRPS2s3zoS3CsF7QwBtxU5ITsPt_M7IvjcfA6Z1mcVqDxg9upTyQIpF0Ngt48kIgnrulDNVsIXyAvy2AQYqajlOya0i5vMQNCs-KatP_BZIVyRDqg2IGx27tTKo8P_JDNZp-JoD7_XVh1Q2YkTzylfy3iVQP7WMXRnbNjyuklYCvD2KmSR9XbObtetuIU7S08Gl26RTKNLlM_1j1Ab48V7wktKmzXcQ-d9GtAnIlQm39qyV3XHgbSkPX_ZHUnsCijcm3dofFJNWty0D_gAk5Mqz8uNUhkaaiFIm5h3jX4roRKharm4AiltDd4Zm3QzC9dJu48tljI2gB7I8i2MSYpnNL4GdD6RFSmnJn3QBcMo-CybbkmGyCLylCOQUc-wM0QY_c7Cs3RlnyOVHIuPFsOtP6LqhcnjqCvNcWDH7FBakX8TYdtnIw3WvyLPaunYZRxrpsP8RoA80qQC6F3NYh8Y215YSrVRJlQl6MHjBqirC_SlmYqQJzzjmPzeKDGRZUqzYbGtYEwDbRqMwBefLljp1JPAYzemV7nNAbob2iCtGQGlmizBBQl-ALDTjA53inAi2NHHSH4lyGRvm3MCjkK0=w750-h1334-no?authuser=0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Result Page
+![enter image description here](https://lh3.googleusercontent.com/SKnDUmldlkaQ1Yxw5vgofs489kIBXMY94YWXOWQZQsY0CqV9sUHJznZlwrJ2Jbn-MrZlIyR_8QiIG_LVK1r38mRkS5geFeihXwVKun4uvkWEznchAiGLqtYR-DsAKkhRWSQ2EBxGTCSGerPyOxiK0oJ7ak_7xr6XO9h88ifsTo7NMZcYEAFRhIH2nYpqhGbQu64QoIikzLmoPE7mwcEAXFNSN0jhRoxDUjXLgVYwRfbxDYriCGwLid1rp39vtmyl2ouisEsmstQGthslFU-1nS01nrwaefhiQyWNIPu5FJbi2EIiag8Ky7zsIzZRzXpisldTJf32TCJww6UQ0QvokdHhEHMxbKtlrAL1l9xDTo7_Zqeg-KFJic6Tk4ilshan4BgF3jem6RRqqTiR0rMpqHvPBLFmWOzBPHg53uIl6oNo2JTBwDI-sJxzaU-z-EF15TrmnEKRaSgqA84rK_TwHx-Ko5I0UjwfN19WjY6KW84wFZ0UspVLPZ8lRJ7cNE_VZpvPw-B4fTG199OLRARwnArGQRzdOueIVobRJlccdqQ6bx-4keZPvqA66QIbrXmOeKrtu1BALUKM7OnA-TSBJZJ6T5jSybpkYRYVNjouOxZYm1K2EJzEb6gNdLaGUzUkfYux2bfG-qOjvZrmkWWjFBk7V6VqFqAEeoHGGSohUQ2putdCxGsjgcUFnFnZqY82PVI2g06WQ9lH1d22FTqBz5k8vsM0HUDGDf9QLLBFE2qM5J-uxEz8bqlPlEnueD5s0_HBawI_6mc6gfOug1g_WSsK8PkDXIo=w750-h1334-no?authuser=0)
